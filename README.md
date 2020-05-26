@@ -4,7 +4,6 @@
 <head>
     <meta charset="utf-8" />
     <meta name="author" content="Script Tutorials" />
-    <title>Stylish responsive footer | Script Tutorials</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <!-- css font and stylesheet -->
     <link href="css/styles.css" rel="stylesheet">
