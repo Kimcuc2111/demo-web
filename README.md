@@ -17,7 +17,7 @@
      <div class="bar">
             <div class="bar-wrap">
                 <ul class="links"> <!-- footer menu -->
-                    <li><a href="#">Home 51 Nguyen Chi Thanh, phuong 9, quan 5, Tp Ho Chi Minh</li>
+                    <li><a href="#">Home: 51 Nguyen Chi Thanh, phuong 9, quan 5, Tp Ho Chi Minh</li>
                     <li><a href="#">Telephone</a></li>
                     <li><a href="#">Zalo</a></li>
                     <li><a href="#">Facebook</a></li>
